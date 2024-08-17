@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: aggregator
+
+sec01:
+  baseUrl: 'http://localhost:7070'
